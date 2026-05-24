@@ -1,0 +1,45 @@
+{
+  "regions": [
+    "Global Ocean"
+  ],
+  "coordinates": {
+    "latMin": -90,
+    "latMax": 90,
+    "lonMin": -180,
+    "lonMax": 180
+  },
+  "dateRange": {
+    "startDate": "2024-01-01",
+    "endDate": "2024-12-31"
+  },
+  "seasons": [],
+  "temperature": {
+    "min": -2,
+    "max": 35,
+    "unit": "celsius"
+  },
+  "salinity": {
+    "min": 0,
+    "max": 40
+  },
+  "depth": {
+    "min": 0,
+    "max": 6000,
+    "unit": "meters"
+  },
+  "qualityFlags": [
+    "Good Data",
+    "Probably Good"
+  ],
+  "dataCompleteness": 80,
+  "floatStatus": [
+    "Active"
+  ],
+  "instrumentTypes": [],
+  "floatIds": [],
+  "measurements": [
+    "Temperature",
+    "Salinity"
+  ],
+  "profiles": []
+}
